@@ -1,0 +1,22 @@
+-------------------------RECORD 1.0-------------------------
+Weather Stats for - DELHI
+------------------------------------------------------------
+DATE: 23 Jun 2021
+TIME: 11:08:57 AM
+Current Temperature   : 37.05 deg C
+Current Weather Desc  :haze
+Current Humidity      :32%
+Current Wind Speed    :1.54kmph
+
+
+-------------------------RECORD 2.0-------------------------
+Weather Stats for - MUMBAI
+------------------------------------------------------------
+DATE: 23 Jun 2021
+TIME: 11:09:04 AM
+Current Temperature   : 30.99 deg C
+Current Weather Desc  :haze
+Current Humidity      :74%
+Current Wind Speed    :5.66kmph
+
+
